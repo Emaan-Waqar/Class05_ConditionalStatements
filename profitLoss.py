@@ -5,4 +5,4 @@ if selling_price >cost_price:
     amount= selling_price- cost_price
     print("Total profit= {0}".format(amount))
 else:
-    print("No profit!")
+    print("No profit!!")
